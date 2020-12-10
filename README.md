@@ -23,3 +23,8 @@ LR2files
       ├─Decide
       └─Result
 ```
+
+### 各スキンの詳細
+
+* [Result](./blob/master/Result/README.md)
+* [Decide](./blob/master/Decide/README.md)
