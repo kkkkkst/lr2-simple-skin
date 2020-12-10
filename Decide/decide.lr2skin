@@ -1,0 +1,10 @@
+//インフォメーション//////////////////////////////////////////////////////////////////////////,,,,
+//,type(result:6),title,maker,thumbnail
+#INFORMATION,6,decide,hex,
+,,,,
+#ENDOFHEADER,,,,
+,,,,
+#STARTINPUT,100,,,
+#SCENETIME,500,,,
+#FADEOUT,100,,,
+#SKIP,100,,,

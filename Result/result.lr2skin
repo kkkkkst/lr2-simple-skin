@@ -1,0 +1,12 @@
+//インフォメーション//////////////////////////////////////////////////////////////////////////
+#INFORMATION,7,HEX-SIMPLE-RESULT-FHD,hex
+
+#CUSTOMOPTION,背景をプレイスキンと連帯,950,する,しない,,
+#CUSTOMFILE,クリア背景,LR2files\Theme\Hex_Simple_FHD\Result\background\cleared\*.png,,
+#CUSTOMFILE,落ち背景,LR2files\Theme\Hex_Simple_FHD\Result\background\faild\*.png,,
+
+#ENDOFHEADER,
+
+#INCLUDE,LR2files\Theme\Hex_Simple_FHD\Result\result.csv
+
+
